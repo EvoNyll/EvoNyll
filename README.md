@@ -6,7 +6,7 @@
 
 With a background in **web development**, **brand storytelling**, and **Web3 community management**, I’ve built everything from sleek e-commerce stores (WordPress, Shopify, Wix) to full-stack web apps (React, Django, PostgreSQL), and thriving online communities.
 
-
+---
 
 ## 💡 What I Do Best:
 - 🎨 **Custom Web Design & Development** — Sleek, responsive websites built with HTML/CSS, React, or CMS tools like WordPress, Wix, Webflow, and Shopify — always user-first, SEO-ready, and conversion-optimized.
@@ -14,7 +14,7 @@ With a background in **web development**, **brand storytelling**, and **Web3 com
 - 🌐 **Web3 Community Management** — Creating engaged, loyal online communities for NFT guilds and blockchain platforms.
 - 📱 **Social Media Content & Strategy** — Managing content across LinkedIn, IG, TikTok & more to amplify stories and boost brand engagement.
 
-
+---
 
 ## 💪 Why Work With Me?
 Every website, graphic, and community I build serves a purpose — to **convert, connect, and grow**. I combine creativity and technical know-how to deliver results that go beyond aesthetics.
@@ -25,7 +25,7 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 🛠️ Always building. Forever learning.  
 🌐 [lablen.dev](https://www.lablen.dev/) | 📬 admin@lablen.dev
 
-
+---
 
 ## 🚀 Tech Stack
 
@@ -65,13 +65,13 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
-
+---
 
 ## 📈 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvoNyll&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvoNyll&layout=compact&theme=radical)
 
-
+---
 
 ## 📂 Projects & Highlights
 
@@ -80,7 +80,7 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 - 📱 Mobile apps built with React Native + Supabase backend  
 - 🌐 CMS sites for businesses using WordPress, Webflow, Wix, Shopify, and ShowIt
 
-
+---
 
 ## 🌱 Currently Exploring
 - Serverless architecture  
@@ -88,7 +88,7 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 - Web3 use cases & integrations  
 - Developer productivity tools (CLI, templates, dev environments)
 
-
+---
 
 ## 🤝 Let’s Connect
 
@@ -97,7 +97,7 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 - 💼 LinkedIn: [linkedin.com/in/lovelyn-tapales](https://www.linkedin.com/in/lovelyn-tapales)  
 - 💻 GitHub: [github.com/EvoNyll](https://github.com/EvoNyll)
 
-
+---
 
 ## ☕ Support My Work
 
