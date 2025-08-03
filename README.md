@@ -105,8 +105,7 @@ If you enjoy what I do and want to support my journey:
 
 <p align="left">
   <a href="https://github.com/sponsors/EvoNyll"><img src="https://img.shields.io/badge/Sponsor-EvoNyll-FD0?style=for-the-badge&logo=github-sponsors" /></a>
-  <a href="https://ko-fi.com/yourkofiusername"><img src="https://img.shields.io/badge/Ko--fi-Donate-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-  <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_Me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/lablen"><img src="https://img.shields.io/badge/Ko--fi-Donate-29ABE0?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
 
 ---
