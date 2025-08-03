@@ -25,7 +25,7 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 🛠️ Always building. Forever learning.  
 🌐 [lablen.dev](https://www.lablen.dev/) | 📬 admin@lablen.dev
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -65,13 +65,13 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
----
+
 
 ## 📈 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvoNyll&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvoNyll&layout=compact&theme=radical)
 
----
+
 
 ## 📂 Projects & Highlights
 
@@ -80,7 +80,7 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 - 📱 Mobile apps built with React Native + Supabase backend  
 - 🌐 CMS sites for businesses using WordPress, Webflow, Wix, Shopify, and ShowIt
 
----
+
 
 ## 🌱 Currently Exploring
 - Serverless architecture  
@@ -88,7 +88,7 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 - Web3 use cases & integrations  
 - Developer productivity tools (CLI, templates, dev environments)
 
----
+
 
 ## 🤝 Let’s Connect
 
@@ -97,7 +97,7 @@ Every website, graphic, and community I build serves a purpose — to **convert,
 - 💼 LinkedIn: [linkedin.com/in/lovelyn-tapales](https://www.linkedin.com/in/lovelyn-tapales)  
 - 💻 GitHub: [github.com/EvoNyll](https://github.com/EvoNyll)
 
----
+
 
 ## ☕ Support My Work
 
