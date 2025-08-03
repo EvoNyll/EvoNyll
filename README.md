@@ -2,11 +2,11 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGrEneo4hhX0A/profile-displaybackgroundimage-shrink_350_1400/B56ZhNKOsVH0Ag-/0/1753641185657?e=1756944000&v=beta&t=5rmAHR9eV-b3HkeMgcgwwMP0pUjCikrQ206lFxUz8Sk" alt="Header image" />
 </p>
 
-# 👋 Hi, I'm EvoNyll! — Full-Stack Developer, Designer & Community Strategist
+# 👋 Hi, I'm Lablen! — Full-Stack Developer, Designer & Community Strategist
 
 With a background in **web development**, **brand storytelling**, and **Web3 community management**, I’ve built everything from sleek e-commerce stores (WordPress, Shopify, Wix) to full-stack web apps (React, Django, PostgreSQL), and thriving online communities.
 
----
+
 
 ## 💡 What I Do Best:
 - 🎨 **Custom Web Design & Development** — Sleek, responsive websites built with HTML/CSS, React, or CMS tools like WordPress, Wix, Webflow, and Shopify — always user-first, SEO-ready, and conversion-optimized.
@@ -14,7 +14,7 @@ With a background in **web development**, **brand storytelling**, and **Web3 com
 - 🌐 **Web3 Community Management** — Creating engaged, loyal online communities for NFT guilds and blockchain platforms.
 - 📱 **Social Media Content & Strategy** — Managing content across LinkedIn, IG, TikTok & more to amplify stories and boost brand engagement.
 
----
+
 
 ## 💪 Why Work With Me?
 Every website, graphic, and community I build serves a purpose — to **convert, connect, and grow**. I combine creativity and technical know-how to deliver results that go beyond aesthetics.
