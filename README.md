@@ -2,9 +2,25 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGrEneo4hhX0A/profile-displaybackgroundimage-shrink_350_1400/B56ZhNKOsVH0Ag-/0/1753641185657?e=1756944000&v=beta&t=5rmAHR9eV-b3HkeMgcgwwMP0pUjCikrQ206lFxUz8Sk" alt="Header image" />
 </p>
 
-# 👋 Hi, I'm EvoNyll
+# 👋 Hi, I'm EvoNyll! — Full-Stack Developer, Designer & Community Strategist
 
-I’m a passionate **full-stack developer** from the Philippines. I specialize in crafting performant, scalable, and user-friendly web and mobile applications using modern technologies.
+With a background in **web development**, **brand storytelling**, and **Web3 community management**, I’ve built everything from sleek e-commerce stores (WordPress, Shopify, Wix) to full-stack web apps (React, Django, PostgreSQL), and thriving online communities.
+
+---
+
+## 💡 What I Do Best:
+- 🎨 **Custom Web Design & Development** — Sleek, responsive websites built with HTML/CSS, React, or CMS tools like WordPress, Wix, Webflow, and Shopify — always user-first, SEO-ready, and conversion-optimized.
+- 🧠 **Brand Strategy & Visual Storytelling** — Engaging, on-brand graphics and designs that enhance user experience and drive emotional connection.
+- 🌐 **Web3 Community Management** — Creating engaged, loyal online communities for NFT guilds and blockchain platforms.
+- 📱 **Social Media Content & Strategy** — Managing content across LinkedIn, IG, TikTok & more to amplify stories and boost brand engagement.
+
+---
+
+## 💪 Why Work With Me?
+Every website, graphic, and community I build serves a purpose — to **convert, connect, and grow**. I combine creativity and technical know-how to deliver results that go beyond aesthetics.
+
+> *"Design isn’t just how it looks — it’s how it works and how it makes people feel."*
+
 
 🛠️ Always building. Forever learning.  
 🌐 [lablen.dev](https://www.lablen.dev/) | 📬 admin@lablen.dev
