@@ -7,7 +7,7 @@
 I’m a passionate **full-stack developer** from the Philippines. I specialize in crafting performant, scalable, and user-friendly web and mobile applications using modern technologies.
 
 🛠️ Always building. Forever learning.  
-🌐 [lablen.dev](https://www.lablen.dev/) | 📬 your.email@example.com
+🌐 [lablen.dev](https://www.lablen.dev/) | 📬 admin@lablen.dev
 
 ---
 
