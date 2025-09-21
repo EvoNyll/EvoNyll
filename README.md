@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGrEneo4hhX0A/profile-displaybackgroundimage-shrink_350_1400/B56ZhNKOsVH0Ag-/0/1753641185657?e=1756944000&v=beta&t=5rmAHR9eV-b3HkeMgcgwwMP0pUjCikrQ206lFxUz8Sk" alt="Header image" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGrEneo4hhX0A/profile-displaybackgroundimage-shrink_350_1400/B56ZhNKOsVH0Ag-/0/1753641185657?e=1756944000&v=beta&t=5rmAHR9eV-b3HkeMgcgwwMP0pUjCikrQ206lFxUz8Sk](https://s4396.sgp1.stableserver.net:2083/cpsess5222815819/viewer/home%2flablende%2fpublic_html%2fimg/lablen-LinkedIn.png" alt="Header image" />
 </p>
 
 # 👋 Hi, I'm Lablen! — Full-Stack Developer, Designer & Community Strategist
